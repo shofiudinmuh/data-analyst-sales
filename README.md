@@ -20,3 +20,5 @@ HASIL TEMUAN
 - Negara dengan penjualan tertinggi : United Kingdom
 - Produk terlaris : PAPER CRAFT , LITTLE BIRDIE
 - Tren penjualan meningkat pada bulan-bulan menjelang akhir tahun
+
+Data Source : www.kaggle.com
